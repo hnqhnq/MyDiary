@@ -1,0 +1,38 @@
+七类实体:
+	时间：Time
+	地点：Location
+	机构：Organization
+	人物：Person
+	金额：Money
+	百分比：Percent
+	日期：Date
+	其他：O
+
+主要识别8种类型：
+
+
+（1）O;
+
+
+（2）MISC;
+
+
+（3）LOCATION;
+
+
+（4）GPE;
+
+
+（5）FACILITY
+
+
+（6）ORGANIZATION
+
+
+（7）DEMONYM
+
+
+（8）PERSON
+
+
+http://172.17.0.2/svn/CBB/trunk/developing/GoCloud/数据挖掘
